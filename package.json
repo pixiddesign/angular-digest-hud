@@ -1,0 +1,22 @@
+{
+  "name": "angular-digest-hud",
+  "version": "0.1.14",
+  "description": "Digest performance analysis HUD for AngularJS.",
+  "main": "digest-hud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixiddesign/angular-digest-hud.git"
+  },
+  "keywords": [
+    "angularjs"
+  ],
+  "author": "Piotr Kaminski <piotr@ideanest.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixiddesign/angular-digest-hud/issues"
+  },
+  "homepage": "https://github.com/pixiddesign/angular-digest-hud#readme"
+}
